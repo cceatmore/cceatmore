@@ -6,7 +6,7 @@
 
 
 
-## Hi there cc👋
+## Hi 🙋
 ![](https://github-readme-stats.vercel.app/api?username=cceatmore&show_icons=true&theme=transparent)
 
 <!--
