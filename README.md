@@ -1,5 +1,13 @@
-## Hi there 👋
-![](https://github-readme-stats.vercel.app/api?username=cceatmoree&show_icons=true&theme=transparent)
+<div>
+  <a href="https://baidu.com/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=999&color=F7BBF0&center=true&width=435&lines=%E4%B8%8D%E8%AE%B8%E6%8A%8A%E8%87%AA%E7%94%B1%E7%9A%84%E5%B0%8F%E7%8C%AB%E5%8F%AB%E5%81%9A%E6%B5%81%E6%B5%AA%E7%8C%AB" alt="Typing SVG" />
+  </a>
+</div>
+
+
+
+## Hi there cc👋
+![](https://github-readme-stats.vercel.app/api?username=cceatmore&show_icons=true&theme=transparent)
 
 <!--
 **cceatmore/cceatmore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
