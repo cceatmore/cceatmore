@@ -13,8 +13,9 @@
 
 <img align="right" width="88" src="https://cceatmore-oss.oss-cn-beijing.aliyuncs.com/git/cc.jpg?Expires=1734081368&OSSAccessKeyId=TMP.3KfzpjwsGcqJoEVD7cfAueHwihnGpjDmoZovyysS9En22zNDZZRqjpLKogCPVm53PyvYb8jcwtJ5Lq6znWdYDAuMBeb8tf&Signature=CPD4lq00GNib2pzZWvzpS%2FZerRk%3D" />
 
-<p>&emsp;&emsp;你好我是cc。热爱编程、摄影、打瓦、美食。</p>
-<p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
+<p>&emsp;&emsp;你好我是cc。喜欢编程、摄影、打瓦、美食。</p>
+<p>&emsp;&emsp;软件工程专业 已是社畜 :disappointed: </p>
+<p>&emsp;&emsp;热爱计算机和IT互联网事业，希望能成为一名优秀的开发者。</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 
