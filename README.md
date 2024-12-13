@@ -23,6 +23,11 @@
 
 <tr><td>
 
+<div align="center">
+	<img src="https://metrics.lecoq.io/cceatmore?template=classic&config.timezone=Asia%2FShanghai">
+</div>
+
+
 ![](https://github-readme-stats.vercel.app/api?username=cceatmore&show_icons=true&theme=transparent)
 
 <!--
